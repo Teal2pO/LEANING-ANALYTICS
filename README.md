@@ -5,11 +5,11 @@
 
 <br>
 
-# TEAL Learning Analytics
+# TEAL Learning Resource Management
 
 ## Overview
 
-This is the source code for the TEAL2.O Learning Analytics. This application provides a python based wrapper for the content Moodle and its database to facilitate the collaborative interactive learning resource creation, management and version control by pushing and pulling associated meta data to a GitHuB repository.
+This is the source code for the TEAL2.O Learning Analytics application. This application provides learning anaytics for the classroom Moodle to facilitate the quality assurance process.
 
 
 ## Table of Contents
@@ -72,9 +72,6 @@ Duplicate the `serverConfig_sample.py` file and rename the copy to `serverConfig
 ## Usage
 For detailed instructions on how to use TEAL, please refer to the guides available on the official TEAL website: https://teal.cs.ait.ac.th.
  Currenty the TEAL platform is hosted at https://teal2o.pdn.ac.lk.
-
-
-
 
 
 ## Contributing
