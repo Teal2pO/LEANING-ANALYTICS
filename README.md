@@ -5,7 +5,7 @@
 
 <br>
 
-# TEAL Learning Resource Management
+# TEAL Learning Analytics
 
 ## Overview
 
